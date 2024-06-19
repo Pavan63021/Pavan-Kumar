@@ -2,6 +2,16 @@
 <h1 align="center">Hi 👋, I'm Pavan Kumar Kasu</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/Pavan63021](https://github.com/Pavan63021)
+
+- 💬 Ask me about **Power BI, Python, Databases and Excel**
+
+- 📫 How to reach me **kasupavankumar0604@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bDfvyYNMFHp8rBYqQ8HoGD_O02He3tAV/view?usp=drive_link](https://drive.google.com/file/d/1bDfvyYNMFHp8rBYqQ8HoGD_O02He3tAV/view?usp=drive_link)
+
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavan kumar kasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan kumar kasu" height="30" width="40" /></a>
