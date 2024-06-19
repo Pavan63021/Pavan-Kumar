@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst skilled in:
 - **Databases**
 - **Statistical Analysis**
 
-
 ---
 ## 📚 Education
 
