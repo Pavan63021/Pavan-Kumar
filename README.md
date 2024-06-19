@@ -1,17 +1,22 @@
-# Hi there, I'm Pavan Kumar Kasu 👋
+# Hi there, I'm [Pavan Kumar Kasu] 👋
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with expertise in:
+Welcome to my GitHub profile! I'm a passionate Data Analyst skilled in:
 
 - **Data Analysis**
 - **Data Visualization**
-- **Statistical Analysis**
 - **Databases**
+- **Statistical Analysis**
 
 
+---
+## 📚 Education
+
+- **[Bachelor's Degree]** from [Sree Chaitanya Institute of Technological Sciences] (2019-2023)
+- **[Course on Data Analytics]** from [SUNY and 360DigiTMG] (2024)
+
+---
 
 ## 🔧 Technologies & Tools
 
@@ -20,18 +25,17 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with expertise in:
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ---
 
 
 
 ## 📫 How to reach me
 
-email: [kasupavankumar0604@gmail.com]
-LinkedIn:[ https://www.linkedin.com/in/pavan-kumar-kasu-463a242a6]
-Github: [https://github.com/Pavan63021]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-kasu-463a242a6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasupavankumar0604@gmail.com)
+
+---
 
 
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
