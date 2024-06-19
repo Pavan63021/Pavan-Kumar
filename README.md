@@ -1,5 +1,4 @@
 # Pavan-Kumar
-Data Analytics enthusiast in Hyderabad, India, with a background in statistical analysis and data visualization. Holding a Bachelor's in Electrical and Electronics Engineering, skilled in programming, databases, and visualization tools. Strong communicator and problem solver.
 <h1 align="center">Hi 👋, I'm Pavan Kumar Kasu</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
